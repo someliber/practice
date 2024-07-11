@@ -1,4 +1,4 @@
 mysql:
-  username: admin_user
+  username: admin_user_ok
 person:
-  name: tom_user
+  name: tom_user_ok
